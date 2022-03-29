@@ -1,4 +1,6 @@
 ### Olá pessoal! Me chamo Gustavo Bedin!! 🚀🚀🚀 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo.bedin)
+[![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bedin-03b6a6191)
 
 
 ## Tecnologias que aprendi e estou aprendendo!
