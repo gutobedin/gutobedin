@@ -6,9 +6,11 @@
 ## Tecnologias que estou usando no momento!
 <div style="display: inline_block">
   <a href="https://github.com/gutobedin">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
-  </div>
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
