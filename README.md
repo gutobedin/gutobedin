@@ -20,4 +20,3 @@
   ##
   
   ![Snake animation](https://github.com/gutobedin/gutobedin/blob/output/github-contribution-grid-snake.svg)
-
