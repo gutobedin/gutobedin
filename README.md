@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bedin-03b6a6191)
 
 
+
 ## Tecnologias que estou usando no momento!
 <div style="display: inline_block">
   <a href="https://github.com/gutobedin">
@@ -14,7 +15,9 @@
   <img align="center" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     
-    ![Snake animation](https://github.com/gutobedin/gutobedin/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
+ 
+  ##
+  
+  ![Snake animation](https://github.com/gutobedin/gutobedin/blob/output/github-contribution-grid-snake.svg)
 
