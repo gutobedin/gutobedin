@@ -17,6 +17,6 @@
 </div>
 <p />
 <p />
-<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+![Animação](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 
