@@ -15,8 +15,6 @@
     <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js">
   </a>
 </div>
-<p />
-<p />
-![Animação](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
+
 
 
