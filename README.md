@@ -15,7 +15,8 @@
     <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js">
   </a>
 </div>
-
-![Animação](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<p />
+<p />
+<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
 
 
